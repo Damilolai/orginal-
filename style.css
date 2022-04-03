@@ -34,7 +34,11 @@ p{
 /* Media Query */
 /* The Deference between min and max width */
 
-/* @media screen and (max-width: 768px)*/
+/* @media screen and (max-width: 768px) {
+    h2{
+        color: red;
+    }
+} */
 
 @media screen and (min-width: 768px) {
     .item-wrapper{
